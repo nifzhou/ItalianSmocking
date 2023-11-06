@@ -53,17 +53,17 @@ python build_Mac.py
 
 
 
-## Run the scripts
+## Run the simulator
 
 ### input
-1. Mesh .obj with stitching information (represented by "l vIdx1 vIdx2"; "l vIdx2 vIdx3" …)
+1. Mesh .obj with stitching information (represented by "*l vIdx1 vIdx2*"; "*l vIdx2 vIdx3*" …)
 
    Stitching Information Format:
     ```
     l vIdx1 vIdx2 # l: stitching line vIdx: vertex index for the stitching line
     ```
 
-2. Positional constraints information file (xx.constraintInfo)
+2. Positional constraints information file (*xx.constraintInfo*)
 
    Constraints Format:
 
@@ -88,9 +88,7 @@ python xx.py
 
 To avoid redundant files, necessary input files and scripts to reproduce our results are prepared in the C-IPC.
 
-
-
-All the scripts are provided in *Projects/FEMShell/*.
+All the scripts are provided in *Projects/FEMShell/*. Detailed hyper-parameter, such as turning on/off the initial configuration, stitching energy, and positional energy, can be modified by following the comments inside the scripts.
 
 
 

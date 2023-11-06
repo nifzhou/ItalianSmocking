@@ -17,7 +17,7 @@ The main structure for the 2D simulator is shown in "main_sim.py". The hyper-par
 To run some samples, the main file requires <u>two input file paths</u>. The first file path refers to the mesh with complete stitching lines. The second file path refers to the same mesh with only front stitching lines. A sample script to run it is:
 
 ```
-python .\main_sim.py ..\data\curve\row3_d1.obj ..\data\curve\row3_d1_half.obj
+python .\main_sim.py '..\data\square\double_row3_d1n5.obj' '..\data\square\double_row3_d1n5_half.obj'
 ```
 
 
