@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # Italian Smocking
 
 
@@ -27,13 +31,13 @@ The source code contains two stages:
 
 |     Pattern      |                             Rect                             |                            vwave                             |                            square                            |                            zcurve                            |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    our result    | ![image-20231105234742728](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234742728.png) | ![image-20231105234754337](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234754337.png) | ![image-20231105234801212](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234801212.png) | ![image-20231105234807580](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234807580.png) |
-| real fabrication | ![image-20231105235307655](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235307655.png) | ![image-20231105235312129](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235312129.png) | ![image-20231105235323022](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235323022.png) | ![image-20231105235412321](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235412321.png) |
+|    our result    | ![image-20231105234742728](./assets/image-20231105234742728.png) | ![image-20231105234754337](./assets/image-20231105234754337.png) | ![image-20231105234801212](./assets/image-20231105234801212.png) | ![image-20231105234807580](./assets/image-20231105234807580.png) |
+| real fabrication | ![image-20231105235307655](./assets/image-20231105235307655.png) | ![image-20231105235312129](./assets/image-20231105235312129.png) | ![image-20231105235323022](./assets/image-20231105235323022.png) | ![image-20231105235412321](./assets/image-20231105235412321.png) |
 
 |     Pattern      |                            zigzag                            |                          half sharp                          |                        sharp (layer2)                        |                            curve                             |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    our result    | ![image-20231105235723349](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235723349.png) | ![image-20231105234852426](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234852426.png) | ![image-20231105235717205](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235717205.png) | ![image-20231105235811735](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105235811735.png) |
-| real fabrication | ![image-20231105234834626](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234834626.png) | ![image-20231105234856118](D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234856118.png) | <img src="D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234903414.png" alt="image-20231105234903414" style="zoom:80%;" /> | <img src="D:\ethz\githubRepo\ItalianSmocking\img\image-20231105234949547.png" alt="image-20231105234949547" style="zoom:150%;" /> |
+|    our result    | ![image-20231105235723349](./assets/image-20231105235723349.png) | ![image-20231105234852426](./assets/image-20231105234852426.png) | ![image-20231105235717205](./assets/image-20231105235717205.png) | ![image-20231105235811735](./assets/image-20231105235811735.png) |
+| real fabrication | ![image-20231105234834626](./assets/image-20231105234834626.png) | ![image-20231105234856118](./assets/image-20231105234856118.png) | <img src="./assets/image-20231105234903414.png" alt="image-20231105234903414" style="zoom:80%;" /> | <img src="./assets/image-20231105234949547.png" alt="image-20231105234949547" style="zoom:150%;" /> |
 
 
 
