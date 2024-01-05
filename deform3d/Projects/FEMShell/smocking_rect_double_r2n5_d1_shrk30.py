@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     # load garment rest shape
     weight_pos = 0.01
-    sim.add_garment_3D("input/final/rect/double_row2_d1_2c.obj", Vector3d(0, 0, 0), Vector3d(1, 1, 1), \
+    sim.add_garment_3D("input/final/rect/double_row2n5_d1_2c.obj", Vector3d(0, 0, 0), Vector3d(1, 1, 1), \
             Vector3d(0, 0, 0), Vector3d(1, 0, 0), 0)
     sim.initialize_garment()
 

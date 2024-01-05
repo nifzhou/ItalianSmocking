@@ -319,7 +319,7 @@ class MassSpringNetwork:
         also set a lower bound to (kind of) avoid self intersection?
         '''
 
-        epsilon = 0.01   # thickness (extreme rest length)   # TODO: really needed? pleat may overlap after projection to 2D
+        epsilon = 0.01   # thickness (extreme rest length)   
         #epsilon = 0.001      # for simple stitch
         diff_L_vec = self.pos[self.edgeEndIdx] - self.pos[self.edgeStartIdx]
         diff_L = np.linalg.norm(diff_L_vec, axis=1, keepdims=True)
@@ -329,7 +329,6 @@ class MassSpringNetwork:
         # acc_mask = stretch_mask.astype(float)
 
         ## refine 1: add extra compression force
-        ## TODO: need to be eliminated for stitching lines??
         compress_mask = (diff_L < epsilon)    # enforce force for too close nodes
         acc_mask = np.logical_or(stretch_mask, compress_mask).astype(float)
         # refine 1.1: for stability: if compress, modify the dL to (l - epsilon) to decrease the possible compression force
