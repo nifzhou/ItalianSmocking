@@ -10,7 +10,7 @@ This repository provides source codes for paper:
 
 We formalize the Italian smocking pattern and develop a simple method to represent and deform the planar mesh into the smocked ones given the initial stitching lines.
 
-More details can be found at: [project page], [paper], [[suppl. video]](https://youtu.be/L6AdmSCmbFc).
+More details can be found at: [[project page]](https://igl.ethz.ch/projects/italiansmocking/), [[paper]](https://igl.ethz.ch/projects/italiansmocking/EG24_ItalianSmocking_finalPaper.pdf), [[suppl. video]](https://youtu.be/L6AdmSCmbFc).
 
 
 
