@@ -43,6 +43,5 @@ The source code contains two stages:
 
 ### Acknowledgements
 
-We would like to thank the anonymous reviewers for their insightful feedback. We extend our gratitude to M. Rifad (YouTube channel ``DIY Stitching``), F. Shanas (YouTube channel ``handiworks``), and S. Fyms (YouTube channel ``FymsEmbroidery``) for generously granting us permission to use the images of their remarkable fabrication results.
-This work was supported in part by the ERC Consolidator Grant No.101003104 (MYCLOTH).
+We would like to thank the anonymous reviewers for their insightful feedback. We extend our gratitude to M. Rifad (YouTube channel ``DIY Stitching``), F. Shanas (YouTube channel ``handiworks``), and S. Fyms (YouTube channel ``FymsEmbroidery``) for generously granting us permission to use the images of their remarkable fabrication results. This work was supported in part by the ERC Consolidator Grant No.101003104 (MYCLOTH).
 
